@@ -26,3 +26,5 @@ Thumbs.db
 Dataset_Risque_de_Credit.csv
 *.csv
 *.jar
+*.zip
+*.txt
