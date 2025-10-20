@@ -7,10 +7,10 @@ Il s’inscrit dans le cadre du module *Cloud Computing*, et démontre la capaci
 ---
 
 ## 🎯 Objectif
-> Mettre en place un pipeline simple permettant **d’explorer, stocker et visualiser** des données à grande échelle via **Azure Blob Storage**, **Azure SQL Database**, et **Power BI**.
+> Mettre en place un pipeline simple permettant **d’explorer, stocker et visualiser** des données à grande échelle via **Azure Blob Storage**, **Azure Data Factory**, **Azure SQL Database**, et **Power BI**.
 
 Le dataset étudié provient de la fusion de deux sources :
-- **UCI Credit Card Dataset**
+- **UCI Credit Card Dataset** (Kaggle)
 - **Credit Risk Dataset** (Kaggle)
 
 Ces données ont été préalablement **nettoyées et enrichies dans Alteryx**, puis intégrées et visualisées dans un environnement Cloud Azure.
@@ -32,4 +32,4 @@ Python (Notebook)
     │       └── Azure Data Factory (ADF)
     │
     └── Visualisation interactive
-            └── Power BI connecté à Azure SQL
+            └── Power BI connecté à Azure SQL et mise en ligne dans PowerBI Services
