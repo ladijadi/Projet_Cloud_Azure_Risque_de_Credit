@@ -2,7 +2,7 @@
 
 ## 📘 Description du projet
 Ce projet a pour objectif de **concevoir un pipeline analytique complet** pour l’analyse du risque de crédit, en combinant les outils **Python, Azure et Power BI**.  
-Il s’inscrit dans le cadre du module *Cloud Computing et Data Management*, et démontre la capacité à intégrer un **flux de données de bout en bout**, depuis la préparation locale jusqu’à la visualisation interactive dans le cloud.
+Il s’inscrit dans le cadre du module *Cloud Computing*, et démontre la capacité à intégrer un **flux de données de bout en bout**, depuis la préparation locale jusqu’à la visualisation interactive dans le cloud.
 
 ---
 
